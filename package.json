@@ -18,6 +18,8 @@
   "homepage": "https://github.com/vandanajamnal02/GraphQL#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "express-graphql": "^0.6.11"
+    "express-graphql": "^0.6.11",
+    "my-api": "0.0.1",
+    "winston": "^2.4.0"
   }
 }
